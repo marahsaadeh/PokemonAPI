@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    /*background-color: blanchedalmond;*/
+    color: brown;
+    font-size: xx-large;
+    margin: 45px;
+}
+button{
+    background-color: purple;
+    color: whitesmoke;
+    font-size: xx-large;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: purple;
+}
+.card{
+    width: 18rem;
+}
